@@ -1,0 +1,219 @@
+#EXTM3U
+#EXTINF:0,YESTERDAY
+http://176.31.249.168:8080/live/abc/abc/1418.ts
+#EXTINF:0,Universal Channel
+http://176.31.249.168:8080/live/abc/abc/1416.ts
+#EXTINF:0,Syfy
+http://176.31.249.168:8080/live/abc/abc/1417.ts
+#EXTINF:0,Sky Cinema Hits
+http://176.31.249.168:8080/live/abc/abc/1404.ts
+#EXTINF:0,Premier Sports
+http://176.31.249.168:8080/live/abc/abc/1413.ts
+#EXTINF:0,MUTV
+http://176.31.249.168:8080/live/abc/abc/1411.ts
+#EXTINF:0,More4
+http://176.31.249.168:8080/live/abc/abc/1409.ts
+#EXTINF:0,local:Sky Cinema Hits
+http://176.31.249.168:8080/live/abc/abc/1402.ts
+#EXTINF:0,local:Sky Cinema Disney
+http://176.31.249.168:8080/live/abc/abc/1403.ts
+#EXTINF:0,local:boxnation
+http://176.31.249.168:8080/live/abc/abc/1401.ts
+#EXTINF:0,E4
+http://176.31.249.168:8080/live/abc/abc/1407.ts
+#EXTINF:0,E!
+http://176.31.249.168:8080/live/abc/abc/1406.ts
+#EXTINF:0,Disney XD
+http://176.31.249.168:8080/live/abc/abc/1415.ts
+#EXTINF:0,Disney Channel
+http://176.31.249.168:8080/live/abc/abc/1414.ts
+#EXTINF:0,BBC One HD
+http://176.31.249.168:8080/live/abc/abc/1224.ts
+#EXTINF:0,B4UMovies
+http://176.31.249.168:8080/live/abc/abc/1405.ts
+#EXTINF:0,UK | Yesterday
+http://176.31.249.168:8080/live/abc/abc/1354.ts
+#EXTINF:0,UK | True Movies
+http://176.31.249.168:8080/live/abc/abc/1294.ts
+#EXTINF:0,UK | TLC
+http://176.31.249.168:8080/live/abc/abc/1273.ts
+#EXTINF:0,UK | TCM
+http://176.31.249.168:8080/live/abc/abc/1297.ts
+#EXTINF:0,UK | Syfy
+http://176.31.249.168:8080/live/abc/abc/1271.ts
+#EXTINF:0,UK | Spike
+http://176.31.249.168:8080/live/abc/abc/1264.ts
+#EXTINF:0,UK | Sony Movie Channel
+http://176.31.249.168:8080/live/abc/abc/1298.ts
+#EXTINF:0,UK | Sky Two
+http://176.31.249.168:8080/live/abc/abc/1258.ts
+#EXTINF:0,UK | Sky Sports News HQ
+http://176.31.249.168:8080/live/abc/abc/1299.ts
+#EXTINF:0,UK | Sky Sports Mix HD
+http://176.31.249.168:8080/live/abc/abc/1301.ts
+#EXTINF:0,UK | Sky Sports F1 HD
+http://176.31.249.168:8080/live/abc/abc/1307.ts
+#EXTINF:0,UK | Sky Sports 5 HD
+http://176.31.249.168:8080/live/abc/abc/1306.ts
+#EXTINF:0,UK | Sky Sports 4 HD
+http://176.31.249.168:8080/live/abc/abc/1305.ts
+#EXTINF:0,UK | Sky Sports 3 HD
+http://176.31.249.168:8080/live/abc/abc/1304.ts
+#EXTINF:0,UK | Sky Sports 2 HD
+http://176.31.249.168:8080/live/abc/abc/1303.ts
+#EXTINF:0,UK | Sky Sports 1 HD
+http://176.31.249.168:8080/live/abc/abc/1302.ts
+#EXTINF:0,UK | Sky One
+http://176.31.249.168:8080/live/abc/abc/1257.ts
+#EXTINF:0,UK | Sky Living
+http://176.31.249.168:8080/live/abc/abc/1260.ts
+#EXTINF:0,UK | Sky Cinema Thriller
+http://176.31.249.168:8080/live/abc/abc/1289.ts
+#EXTINF:0,UK | Sky Cinema Select
+http://176.31.249.168:8080/live/abc/abc/1292.ts
+#EXTINF:0,UK | Sky Cinema ScFi/Horror
+http://176.31.249.168:8080/live/abc/abc/1291.ts
+#EXTINF:0,UK | Sky Cinema Premiere
+http://176.31.249.168:8080/live/abc/abc/1284.ts
+#EXTINF:0,UK | Sky Cinema Greats
+http://176.31.249.168:8080/live/abc/abc/1293.ts
+#EXTINF:0,UK | Sky Cinema Family
+http://176.31.249.168:8080/live/abc/abc/1286.ts
+#EXTINF:0,UK | Sky Cinema Drama Romance
+http://176.31.249.168:8080/live/abc/abc/1290.ts
+#EXTINF:0,UK | Sky Cinema Disney
+http://176.31.249.168:8080/live/abc/abc/1285.ts
+#EXTINF:0,UK | Sky Cinema Comedy
+http://176.31.249.168:8080/live/abc/abc/1288.ts
+#EXTINF:0,UK | Sky Cinema Action
+http://176.31.249.168:8080/live/abc/abc/1287.ts
+#EXTINF:0,UK | Sky Atlantic
+http://176.31.249.168:8080/live/abc/abc/1259.ts
+#EXTINF:0,UK | Sky Arts
+http://176.31.249.168:8080/live/abc/abc/1261.ts
+#EXTINF:0,UK | Racing UK
+http://176.31.249.168:8080/live/abc/abc/1317.ts
+#EXTINF:0,UK | Quest
+http://176.31.249.168:8080/live/abc/abc/1263.ts
+#EXTINF:0,UK | Premier Sports HD
+http://176.31.249.168:8080/live/abc/abc/1315.ts
+#EXTINF:0,UK | Nicktoons
+http://176.31.249.168:8080/live/abc/abc/1363.ts
+#EXTINF:0,UK | Nick Jr
+http://176.31.249.168:8080/live/abc/abc/1361.ts
+#EXTINF:0,UK | Nat Geo Wild
+http://176.31.249.168:8080/live/abc/abc/1351.ts
+#EXTINF:0,UK | Nat Geo
+http://176.31.249.168:8080/live/abc/abc/1350.ts
+#EXTINF:0,UK | MUTV
+http://176.31.249.168:8080/live/abc/abc/1320.ts
+#EXTINF:0,UK | MTV
+http://176.31.249.168:8080/live/abc/abc/1262.ts
+#EXTINF:0,UK | Movies4men
+http://176.31.249.168:8080/live/abc/abc/1296.ts
+#EXTINF:0,UK | More 4
+http://176.31.249.168:8080/live/abc/abc/1248.ts
+#EXTINF:0,UK | LFC TV
+http://176.31.249.168:8080/live/abc/abc/1318.ts
+#EXTINF:0,UK | ITVBe
+http://176.31.249.168:8080/live/abc/abc/1239.ts
+#EXTINF:0,UK | ITV4
+http://176.31.249.168:8080/live/abc/abc/1238.ts
+#EXTINF:0,UK | ITV3
+http://176.31.249.168:8080/live/abc/abc/1237.ts
+#EXTINF:0,UK | ITV2
+http://176.31.249.168:8080/live/abc/abc/1236.ts
+#EXTINF:0,UK | ITV Encore
+http://176.31.249.168:8080/live/abc/abc/1240.ts
+#EXTINF:0,UK | ITV
+http://176.31.249.168:8080/live/abc/abc/1226.ts
+#EXTINF:0,UK | Investigation Discovery
+http://176.31.249.168:8080/live/abc/abc/1349.ts
+#EXTINF:0,UK | History
+http://176.31.249.168:8080/live/abc/abc/1355.ts
+#EXTINF:0,UK | H2
+http://176.31.249.168:8080/live/abc/abc/1353.ts
+#EXTINF:0,UK | Gold
+http://176.31.249.168:8080/live/abc/abc/1266.ts
+#EXTINF:0,UK | Fox
+http://176.31.249.168:8080/live/abc/abc/1270.ts
+#EXTINF:0,UK | Film4
+http://176.31.249.168:8080/live/abc/abc/1295.ts
+#EXTINF:0,UK | Eurosport 2
+http://176.31.249.168:8080/live/abc/abc/1325.ts
+#EXTINF:0,UK | Eurosport 1
+http://176.31.249.168:8080/live/abc/abc/1324.ts
+#EXTINF:0,UK | Euronews
+http://176.31.249.168:8080/live/abc/abc/1252.ts
+#EXTINF:0,UK | Eir Sport 2
+http://176.31.249.168:8080/live/abc/abc/1314.ts
+#EXTINF:0,UK | Eir Sport 1
+http://176.31.249.168:8080/live/abc/abc/1313.ts
+#EXTINF:0,UK | Disney XD
+http://176.31.249.168:8080/live/abc/abc/1359.ts
+#EXTINF:0,UK | Disney Jr
+http://176.31.249.168:8080/live/abc/abc/1360.ts
+#EXTINF:0,UK | Disney Channel
+http://176.31.249.168:8080/live/abc/abc/1358.ts
+#EXTINF:0,UK | Discovery Turbo
+http://176.31.249.168:8080/live/abc/abc/1346.ts
+#EXTINF:0,UK | Discovery Science
+http://176.31.249.168:8080/live/abc/abc/1348.ts
+#EXTINF:0,UK | Discovery History
+http://176.31.249.168:8080/live/abc/abc/1347.ts
+#EXTINF:0,UK | Discovery
+http://176.31.249.168:8080/live/abc/abc/1345.ts
+#EXTINF:0,UK | Dave
+http://176.31.249.168:8080/live/abc/abc/1255.ts
+#EXTINF:0,UK | Chelsea TV
+http://176.31.249.168:8080/live/abc/abc/1319.ts
+#EXTINF:0,UK | Channel 5 HD
+http://176.31.249.168:8080/live/abc/abc/1228.ts
+#EXTINF:0,UK | Channel 4 HD
+http://176.31.249.168:8080/live/abc/abc/1227.ts
+#EXTINF:0,UK | CBS Reality
+http://176.31.249.168:8080/live/abc/abc/1267.ts
+#EXTINF:0,UK | CBS Drama
+http://176.31.249.168:8080/live/abc/abc/1269.ts
+#EXTINF:0,UK | CBS Action
+http://176.31.249.168:8080/live/abc/abc/1268.ts
+#EXTINF:0,UK | CBeebies HD
+http://176.31.249.168:8080/live/abc/abc/1366.ts
+#EXTINF:0,UK | CBBC HD
+http://176.31.249.168:8080/live/abc/abc/1365.ts
+#EXTINF:0,UK | Cartoon Network
+http://176.31.249.168:8080/live/abc/abc/1357.ts
+#EXTINF:0,UK | BT Sport ESPN HD
+http://176.31.249.168:8080/live/abc/abc/1312.ts
+#EXTINF:0,UK | BT Sport 3 HD
+http://176.31.249.168:8080/live/abc/abc/1311.ts
+#EXTINF:0,UK | BT Sport 2 HD
+http://176.31.249.168:8080/live/abc/abc/1310.ts
+#EXTINF:0,UK | BT Sport 1 HD
+http://176.31.249.168:8080/live/abc/abc/1309.ts
+#EXTINF:0,UK | Boxnation
+http://176.31.249.168:8080/live/abc/abc/1323.ts
+#EXTINF:0,UK | Bloomberg
+http://176.31.249.168:8080/live/abc/abc/1364.ts
+#EXTINF:0,UK | BBC Two HD
+http://176.31.249.168:8080/live/abc/abc/1225.ts
+#EXTINF:0,UK | BBC Four HD
+http://176.31.249.168:8080/live/abc/abc/1233.ts
+#EXTINF:0,UK | At The Races
+http://176.31.249.168:8080/live/abc/abc/1316.ts
+#EXTINF:0,UK | Animal Planet
+http://176.31.249.168:8080/live/abc/abc/1352.ts
+#EXTINF:0,UK | Alibi
+http://176.31.249.168:8080/live/abc/abc/1256.ts
+#EXTINF:0,UK | 5 USA
+http://176.31.249.168:8080/live/abc/abc/1242.ts
+#EXTINF:0,MTV DANCE
+http://176.31.249.168:8080/live/abc/abc/1400.ts
+#EXTINF:0,MTV BASS
+http://176.31.249.168:8080/live/abc/abc/1399.ts
+#EXTINF:0,MTV
+http://176.31.249.168:8080/live/abc/abc/1398.ts
+#EXTINF:0,IRE | RTE Two HD
+http://176.31.249.168:8080/live/abc/abc/1277.ts
+#EXTINF:0,IRE | RTE One HD
+http://176.31.249.168:8080/live/abc/abc/1276.ts
